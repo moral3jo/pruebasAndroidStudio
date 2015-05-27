@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InfoEmpresa</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="inicio">Inicio</string>
+    <string name="action_settings">Configuración</string>
+</resources>
